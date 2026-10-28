@@ -1,0 +1,8 @@
+{
+  "name": "Synapse — Adaptive AI Study & Time-Management System",
+  "description": "An adaptive AI study assistant and dynamic time-management system for university students powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
